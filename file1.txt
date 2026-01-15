@@ -1,5 +1,13 @@
 new data or changes for file1
+<<<<<<< HEAD
 min branch update
 
 editting same line by main
+=======
+diff command output
+feature branch new change or content
+
+
+Same line editting by feature
+>>>>>>> feature1
 
