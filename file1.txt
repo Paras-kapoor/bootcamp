@@ -1,3 +1,5 @@
 new data or changes for file1
 diff command output
 feature branch new change or content
+Same line editting by feature
+
