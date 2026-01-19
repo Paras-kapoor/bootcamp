@@ -10,4 +10,11 @@ feature branch new change or content
 
 Same line editting by feature
 >>>>>>> feature1
+new update added to the file 
+C
 
+:wq
+:qw
+
+C
+:
